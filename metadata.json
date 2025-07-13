@@ -1,0 +1,5 @@
+{
+  "name": "RumorNet",
+  "description": "An anonymous chat app where students can connect with strangers and share rumors.",
+  "requestFramePermissions": []
+}
